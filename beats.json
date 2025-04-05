@@ -20,5 +20,16 @@
     "fileURL": "https://raw.githubusercontent.com/AlexKissiJr/ProStudio3Beats/main/beats/AlexProject1.mp3",
     "imageURL": null,
     "dateAdded": "2023-08-20T14:45:00Z"
+  },
+   {
+    "id": "514",
+    "title": "Trap Anthem",
+    "artist": "Novatracks",
+    "genre": "R&B",
+    "bpm": 70,
+    "duration": 210.2,
+    "fileURL": "https://raw.githubusercontent.com/AlexKissiJr/ProStudio3Beats/main/beats/514.mp3",
+    "imageURL": null,
+    "dateAdded": "2023-08-20T14:45:00Z"
   }
 ]
