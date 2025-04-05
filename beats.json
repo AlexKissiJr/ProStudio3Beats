@@ -1,1 +1,58 @@
 
+[
+  {
+    "id": "summer-vibes-123",
+    "title": "Summer Vibes",
+    "artist": "ProStudio Beats",
+    "genre": "Pop",
+    "bpm": 120,
+    "duration": 180.5,
+    "fileURL": "https://novleg.github.io/ProStudio3Beats/beats/summer-vibes-123.mp3",
+    "imageURL": "https://novleg.github.io/ProStudio3Beats/images/summer-vibes-123.jpg",
+    "dateAdded": "2023-07-15T10:30:00Z"
+  },
+  {
+    "id": "trap-anthem-456",
+    "title": "Trap Anthem",
+    "artist": "Beat Master",
+    "genre": "Trap",
+    "bpm": 140,
+    "duration": 210.2,
+    "fileURL": "https://novleg.github.io/ProStudio3Beats/beats/trap-anthem-456.mp3",
+    "imageURL": "https://novleg.github.io/ProStudio3Beats/images/trap-anthem-456.jpg",
+    "dateAdded": "2023-08-20T14:45:00Z"
+  },
+  {
+    "id": "chill-lofi-789",
+    "title": "Chill LoFi",
+    "artist": "LoFi Producer",
+    "genre": "LoFi",
+    "bpm": 85,
+    "duration": 195.7,
+    "fileURL": "https://novleg.github.io/ProStudio3Beats/beats/chill-lofi-789.mp3",
+    "imageURL": "https://novleg.github.io/ProStudio3Beats/images/chill-lofi-789.jpg",
+    "dateAdded": "2023-09-05T09:15:00Z"
+  },
+  {
+    "id": "hip-hop-classic-101",
+    "title": "Hip Hop Classic",
+    "artist": "Old School",
+    "genre": "Hip Hop",
+    "bpm": 95,
+    "duration": 240.0,
+    "fileURL": "https://novleg.github.io/ProStudio3Beats/beats/hip-hop-classic-101.mp3",
+    "imageURL": "https://novleg.github.io/ProStudio3Beats/images/hip-hop-classic-101.jpg",
+    "dateAdded": "2023-10-10T16:20:00Z"
+  },
+  {
+    "id": "electronic-dance-202",
+    "title": "Electronic Dance",
+    "artist": "EDM Master",
+    "genre": "EDM",
+    "bpm": 128,
+    "duration": 220.3,
+    "fileURL": "https://novleg.github.io/ProStudio3Beats/beats/electronic-dance-202.mp3",
+    "imageURL": "https://novleg.github.io/ProStudio3Beats/images/electronic-dance-202.jpg",
+    "dateAdded": "2023-11-15T11:30:00Z"
+  }
+]
