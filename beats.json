@@ -1,23 +1,23 @@
 [
   {
-    "id": "firetrack",
-    "title": "Fire Track",
+    "id": "93",
+    "title": "Fire Track 93",
     "artist": "ProStudio Beats",
     "genre": "Hip Hop",
     "bpm": 95,
     "duration": 180.0,
-    "fileURL": "https://raw.githubusercontent.com/AlexKissiJr/ProStudio3Beats/main/beats/firetrack.mp3",
+    "fileURL": "https://raw.githubusercontent.com/AlexKissiJr/ProStudio3Beats/main/beats/94.mp3",
     "imageURL": null,
     "dateAdded": "2023-07-15T10:30:00Z"
   },
   {
-    "id": "trap-anthem-456",
+    "id": "AlexProject1",
     "title": "Trap Anthem",
     "artist": "Beat Master",
     "genre": "Trap",
     "bpm": 140,
     "duration": 210.2,
-    "fileURL": "https://raw.githubusercontent.com/AlexKissiJr/ProStudio3Beats/main/beats/trap-anthem-456.mp3",
+    "fileURL": "https://raw.githubusercontent.com/AlexKissiJr/ProStudio3Beats/main/beats/AlexProject1.mp3",
     "imageURL": null,
     "dateAdded": "2023-08-20T14:45:00Z"
   }
